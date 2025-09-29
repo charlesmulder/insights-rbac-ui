@@ -1,3 +1,15 @@
+# [1.57.0](https://github.com/charlesmulder/insights-rbac-ui/compare/v1.56.1...v1.57.0) (2025-09-29)
+
+
+### Bug Fixes
+
+* **cost-settings:** do not send resource definitions ([#1929](https://github.com/charlesmulder/insights-rbac-ui/issues/1929)) ([0e5727c](https://github.com/charlesmulder/insights-rbac-ui/commit/0e5727c85a38d2cfe0c70f843b0368ddcec07e09))
+
+
+### Features
+
+* **search:** add org admin global search entry ([17d4811](https://github.com/charlesmulder/insights-rbac-ui/commit/17d48111fa3fc49024208fa9dcda3d97318e91b2))
+
 ## [1.57.1](https://github.com/RedHatInsights/insights-rbac-ui/compare/v1.57.0...v1.57.1) (2025-09-29)
 
 
